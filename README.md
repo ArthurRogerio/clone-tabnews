@@ -1,2 +1,3 @@
 # clone-tabnews
-Projeto para melhorar como programador 
+
+Projeto para melhorar como programador
