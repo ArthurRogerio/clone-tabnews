@@ -3,7 +3,9 @@ function Home() {
 }
 
 function teste() {
-  console.log("teste");
+  console.log("testedd");
 }
+
+teste();
 
 export default Home;
